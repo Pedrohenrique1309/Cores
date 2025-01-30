@@ -21,7 +21,4 @@ Projeto do curso de desenvolvimento de sistemas do SENAI Jandira com o objetivo 
 
 ## Autor
 - [Pedro Henrique](https://www.linkedin.com/in/pedro-fernandes-954b20308/)
-=======
-# Cores
 
->>>>>>> 3f11f84f664882ff4713ba78c3fdd2043e99d314
